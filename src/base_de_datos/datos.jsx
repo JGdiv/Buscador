@@ -11,4 +11,4 @@ export const usuarios = [
     { nombre: 'Diego', apellido: 'Alvarado', profesion: 'Consultor', img: 'https://randomuser.me/api/portraits/men/77.jpg' },
     { nombre: 'Dilma', apellido: 'socorro', profesion: 'Bailarina', img: 'https://randomuser.me/api/portraits/women/77.jpg' },
     { nombre: 'Sofia', apellido: 'Alvaro', profesion: 'Cantante', img: 'https://randomuser.me/api/portraits/women/70.jpg' },
-]
+];
